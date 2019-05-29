@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.2.2 (2019-05-29)
+
+**Bug fixes:**
+Add compatibility for cordova-android 8
+
 ## 1.2.1 (2016-10-23)
 
 **Bug fixes:**
